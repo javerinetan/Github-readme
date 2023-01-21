@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=javerinetan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=javerinetan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=javerinetan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/javerinetan/javerinetan/blob/output/github-contribution-grid-snake.svg)
 
 ### 😂 Random Meme
 ![download](https://user-images.githubusercontent.com/90853880/213860751-e0030840-fc08-4cd2-ab85-c454f2bb2a01.jpg)
