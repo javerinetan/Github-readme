@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 ![javerinetan GitHub stats](https://github-readme-stats.vercel.app/api?username=javerinetan&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=javerinetan&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/ username=javerinetan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javerinetan)](https://github.com/javerinetan/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
