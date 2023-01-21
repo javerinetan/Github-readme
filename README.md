@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying at Nanyang Polytechnic, Applied AI and Analytics.<br>I love watching sci-fi shows <br>I would love to collaborate with anyone <br>
+👩‍🎓I am currently studying at Nanyang Polytechnic, Applied AI and Analytics.<br>📱I love watching sci-fi shows <br>🫶I would love to collaborate with anyone <br>
 
 
 ## 🌐 Socials:
