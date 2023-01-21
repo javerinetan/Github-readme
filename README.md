@@ -17,6 +17,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
+![0_s2ivt9cecdqsXvts](https://user-images.githubusercontent.com/90853880/213870732-4edc5f32-e32e-43d5-8a89-38657965875a.gif&width="512px")
+
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
