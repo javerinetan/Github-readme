@@ -16,6 +16,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### My moto
+
+Not to give up until victory is achieved. I won't forsake my chance or give up!
+
 ### 😂 Random Dev Meme
 ![0_s2ivt9cecdqsXvts](https://user-images.githubusercontent.com/90853880/213870732-4edc5f32-e32e-43d5-8a89-38657965875a.gif)
 
