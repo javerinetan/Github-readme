@@ -1,167 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram name="Page-1" id="iSfx2Hk6YPQISohtZeEE">
-    <mxGraphModel dx="2171" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1911" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Pi1bVwPb6e6sLJysukLp-159" value="health_organization_by_location" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;columnLines=1;strokeColor=default;swimlaneFillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1130" y="70" width="250" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="Pi1bVwPb6e6sLJysukLp-160" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;strokeWidth=1;separatorColor=#FFFEED;" parent="Pi1bVwPb6e6sLJysukLp-159" vertex="1">
-          <mxGeometry y="30" width="250" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Pi1bVwPb6e6sLJysukLp-161" value="K" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="Pi1bVwPb6e6sLJysukLp-160" vertex="1">
-          <mxGeometry width="30" height="20" as="geometry">
-            <mxRectangle width="30" height="20" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pi1bVwPb6e6sLJysukLp-162" value="region_id" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=1;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeWidth=3;strokeOpacity=0;opacity=70;strokeColor=#fbf9f9;" parent="Pi1bVwPb6e6sLJysukLp-160" vertex="1">
-          <mxGeometry x="30" width="140.00000000000006" height="20" as="geometry">
-            <mxRectangle width="140.00000000000006" height="20" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pi1bVwPb6e6sLJysukLp-217" value="UUID" style="shape=partialRectangle;connectable=0;top=0;left=1;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;fillOpacity=0;strokeColor=#FFFFFF;fillColor=default;strokeWidth=17;allowArrows=0;movable=0;strokeOpacity=0;shadow=0;rowspan=1;perimeterSpacing=7;" parent="Pi1bVwPb6e6sLJysukLp-160" vertex="1">
-          <mxGeometry x="170.00000000000006" width="79.99999999999994" height="20" as="geometry">
-            <mxRectangle width="79.99999999999994" height="20" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8P0faVl7DdYcb1l7FU_i-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="Pi1bVwPb6e6sLJysukLp-159">
-          <mxGeometry y="50" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8P0faVl7DdYcb1l7FU_i-24" value="K" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="8P0faVl7DdYcb1l7FU_i-23">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8P0faVl7DdYcb1l7FU_i-25" value="org_type" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="8P0faVl7DdYcb1l7FU_i-23">
-          <mxGeometry x="30" width="140.00000000000006" height="30" as="geometry">
-            <mxRectangle width="140.00000000000006" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8P0faVl7DdYcb1l7FU_i-26" value="TEXT" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="8P0faVl7DdYcb1l7FU_i-23">
-          <mxGeometry x="170.00000000000006" width="79.99999999999994" height="30" as="geometry">
-            <mxRectangle width="79.99999999999994" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pi1bVwPb6e6sLJysukLp-163" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="Pi1bVwPb6e6sLJysukLp-159" vertex="1">
-          <mxGeometry y="80" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pi1bVwPb6e6sLJysukLp-164" value="C" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="Pi1bVwPb6e6sLJysukLp-163" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pi1bVwPb6e6sLJysukLp-165" value="state_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="Pi1bVwPb6e6sLJysukLp-163" vertex="1">
-          <mxGeometry x="30" width="140.00000000000006" height="30" as="geometry">
-            <mxRectangle width="140.00000000000006" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pi1bVwPb6e6sLJysukLp-218" value="UUID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="Pi1bVwPb6e6sLJysukLp-163" vertex="1">
-          <mxGeometry x="170.00000000000006" width="79.99999999999994" height="30" as="geometry">
-            <mxRectangle width="79.99999999999994" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pi1bVwPb6e6sLJysukLp-166" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="Pi1bVwPb6e6sLJysukLp-159" vertex="1">
-          <mxGeometry y="110" width="250" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Pi1bVwPb6e6sLJysukLp-167" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="Pi1bVwPb6e6sLJysukLp-166" vertex="1">
-          <mxGeometry width="30" height="20" as="geometry">
-            <mxRectangle width="30" height="20" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pi1bVwPb6e6sLJysukLp-168" value="org_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="Pi1bVwPb6e6sLJysukLp-166" vertex="1">
-          <mxGeometry x="30" width="140.00000000000006" height="20" as="geometry">
-            <mxRectangle width="140.00000000000006" height="20" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pi1bVwPb6e6sLJysukLp-219" value="UUID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="Pi1bVwPb6e6sLJysukLp-166" vertex="1">
-          <mxGeometry x="170.00000000000006" width="79.99999999999994" height="20" as="geometry">
-            <mxRectangle width="79.99999999999994" height="20" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pi1bVwPb6e6sLJysukLp-169" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="Pi1bVwPb6e6sLJysukLp-159" vertex="1">
-          <mxGeometry y="130" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pi1bVwPb6e6sLJysukLp-170" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="Pi1bVwPb6e6sLJysukLp-169" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pi1bVwPb6e6sLJysukLp-171" value="country_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="Pi1bVwPb6e6sLJysukLp-169" vertex="1">
-          <mxGeometry x="30" width="140.00000000000006" height="30" as="geometry">
-            <mxRectangle width="140.00000000000006" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Pi1bVwPb6e6sLJysukLp-220" value="UUID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="Pi1bVwPb6e6sLJysukLp-169" vertex="1">
-          <mxGeometry x="170.00000000000006" width="79.99999999999994" height="30" as="geometry">
-            <mxRectangle width="79.99999999999994" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8P0faVl7DdYcb1l7FU_i-16" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="Pi1bVwPb6e6sLJysukLp-159">
-          <mxGeometry y="160" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8P0faVl7DdYcb1l7FU_i-17" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="8P0faVl7DdYcb1l7FU_i-16">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8P0faVl7DdYcb1l7FU_i-18" value="state_name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="8P0faVl7DdYcb1l7FU_i-16">
-          <mxGeometry x="30" width="140.00000000000006" height="30" as="geometry">
-            <mxRectangle width="140.00000000000006" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8P0faVl7DdYcb1l7FU_i-19" value="TEXT" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="8P0faVl7DdYcb1l7FU_i-16">
-          <mxGeometry x="170.00000000000006" width="79.99999999999994" height="30" as="geometry">
-            <mxRectangle width="79.99999999999994" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8P0faVl7DdYcb1l7FU_i-31" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="Pi1bVwPb6e6sLJysukLp-159">
-          <mxGeometry y="190" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8P0faVl7DdYcb1l7FU_i-32" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="8P0faVl7DdYcb1l7FU_i-31">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8P0faVl7DdYcb1l7FU_i-33" value="region_name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="8P0faVl7DdYcb1l7FU_i-31">
-          <mxGeometry x="30" width="140.00000000000006" height="30" as="geometry">
-            <mxRectangle width="140.00000000000006" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8P0faVl7DdYcb1l7FU_i-34" value="TEXT" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="8P0faVl7DdYcb1l7FU_i-31">
-          <mxGeometry x="170.00000000000006" width="79.99999999999994" height="30" as="geometry">
-            <mxRectangle width="79.99999999999994" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8P0faVl7DdYcb1l7FU_i-35" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="Pi1bVwPb6e6sLJysukLp-159">
-          <mxGeometry y="220" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8P0faVl7DdYcb1l7FU_i-36" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="8P0faVl7DdYcb1l7FU_i-35">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8P0faVl7DdYcb1l7FU_i-37" value="country_name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="8P0faVl7DdYcb1l7FU_i-35">
-          <mxGeometry x="30" width="140.00000000000006" height="30" as="geometry">
-            <mxRectangle width="140.00000000000006" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8P0faVl7DdYcb1l7FU_i-38" value="TEXT" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="8P0faVl7DdYcb1l7FU_i-35">
-          <mxGeometry x="170.00000000000006" width="79.99999999999994" height="30" as="geometry">
-            <mxRectangle width="79.99999999999994" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8P0faVl7DdYcb1l7FU_i-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.452;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Pi1bVwPb6e6sLJysukLp-159">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1017" y="20" as="sourcePoint" />
-            <mxPoint x="-470" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8P0faVl7DdYcb1l7FU_i-2" value="Q1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1025" y="28" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8P0faVl7DdYcb1l7FU_i-39" value="user_by_userid" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;columnLines=1;strokeColor=default;swimlaneFillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-740" y="69" width="250" height="160" as="geometry" />
+        <mxCell id="8P0faVl7DdYcb1l7FU_i-39" value="user_by_u" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;columnLines=1;strokeColor=default;swimlaneFillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1150" y="80" width="250" height="160" as="geometry" />
         </mxCell>
         <mxCell id="8P0faVl7DdYcb1l7FU_i-40" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;strokeWidth=1;separatorColor=#FFFEED;" vertex="1" parent="8P0faVl7DdYcb1l7FU_i-39">
           <mxGeometry y="30" width="250" height="20" as="geometry" />
@@ -255,12 +99,18 @@
         </mxCell>
         <mxCell id="8P0faVl7DdYcb1l7FU_i-72" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.452;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="8P0faVl7DdYcb1l7FU_i-39">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-627" y="19" as="sourcePoint" />
-            <mxPoint x="-80" y="109" as="targetPoint" />
+            <mxPoint x="-1037" y="30" as="sourcePoint" />
+            <mxPoint x="-490" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8P0faVl7DdYcb1l7FU_i-73" value="Q4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-635" y="27" width="40" height="30" as="geometry" />
+        <mxCell id="8P0faVl7DdYcb1l7FU_i-73" value="Q1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1045" y="38" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8P0faVl7DdYcb1l7FU_i-75" value="&lt;p style=&quot;font-size: 8px; text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;Q1: User Login to Doctor Everywhere site&lt;/p&gt;&lt;p style=&quot;font-size: 8px; text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;Q2: Get user Info&lt;/p&gt;&lt;p style=&quot;font-size: 8px; text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;Q3: Enter selected account type&lt;/p&gt;&lt;p style=&quot;font-size: 8px; text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;Q4: View Medical Account&lt;/p&gt;&lt;p style=&quot;font-size: 8px; text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;Q5: View Medical Records&lt;/p&gt;&lt;p style=&quot;font-size: 8px; text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Q6: Get users top 5 medical appointments based on highest&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;expense&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 8px; text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;Q7: Get moving average medical expense over 3 months&lt;/p&gt;&lt;p style=&quot;font-size: 8px; text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;Q8: View Doctor Info &amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 8px; text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;Q9: Get top 10 practitioner based on number of medical records&lt;/p&gt;&lt;p style=&quot;font-size: 8px; text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Q10: View health organization&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 8px; text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;Q11: View Organization news&lt;/p&gt;&lt;p style=&quot;font-size: 8px; text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;Q12: Read latest offerings of health care service&lt;/p&gt;&lt;p style=&quot;font-size: 8px; text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Q13: Get patients with highest frequency of visits over the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;past year&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 8px; text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;Q14: View average rating provided by customer on a monthly&lt;br&gt;basis&lt;/p&gt;&lt;p style=&quot;font-size: 8px; text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Q15: Get recent medical records completed&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 8px; text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;Q16: Get total number of transactions made by healthcare organization daily for the year&lt;/p&gt;&lt;p style=&quot;font-size: 8px; text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;Q17: Monthly the growth of healthcare organization over time&lt;/p&gt;&lt;p style=&quot;text-align: left; font-size: 8px; padding-top: 0px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Aptos, sans-serif; background-color: initial;&quot;&gt;Q18: View full name and customer accounts&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="1660" width="460" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="8P0faVl7DdYcb1l7FU_i-78" value="&#xa;&lt;p class=&quot;MsoNormal&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Q1: User Login to Doctor Everywhere site&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Q2: Get user Info&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Q3: Enter selected account type&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Q4: View Medical Account&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Q5: View Medical Records&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none;&quot;&gt;Q6: Get users top 5 medical appointments based on highest&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none;&quot;&gt;expense&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Q7: Get moving average medical expense over 3 months&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Q8: View Doctor Info &amp;nbsp;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Q9: Get top 10 practitioner based on number of medical records&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none;&quot;&gt;Q10: View health organization&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Q11: View Organization news&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Q12: Read latest offerings of health care service&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none;&quot;&gt;Q13: Get patients with highest frequency of visits over the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none;&quot;&gt;past year&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Q14: View average rating provided by customer on a monthly&lt;br style=&quot;forced-color-adjust: none; font-size: 8px;&quot;&gt;basis&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none;&quot;&gt;Q15: Get recent medical records completed&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Q16: Get total number of transactions made by healthcare organization daily for the year&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Q17: Monthly the growth of healthcare organization over time&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-family: Aptos, sans-serif;&quot;&gt;Q18: View full name and customer accounts&lt;/span&gt;&lt;/p&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="30" width="370" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
